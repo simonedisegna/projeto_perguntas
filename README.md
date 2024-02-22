@@ -1,16 +1,16 @@
-# projeto_perguntas
+# Projeto Perguntas
+Um novo projeto Flutter.
 
-A new Flutter project.
+##  Início Rápido
+Este projeto é um ponto de partida para uma aplicação Flutter.
 
-## Getting Started
+Aqui estão alguns recursos para ajudá-lo a começar, se este for seu primeiro projeto Flutter:
 
-This project is a starting point for a Flutter application.
+Tutorial: Escreva sua primeira aplicação Flutter (https://docs.flutter.dev/get-started/codelab)
+Receitas: Exemplos úteis de Flutter (https://docs.flutter.dev/cookbook)
+Para obter ajuda para começar a desenvolver com Flutter, consulte a
+documentação online, que oferece tutoriais,
+exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.
+(https://docs.flutter.dev/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Neste projeto, ações serão incluídas nos botões para aprimorar a experiência do usuário.
